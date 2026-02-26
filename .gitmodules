@@ -1,6 +1,6 @@
 [submodule "libultraship"]
 	path = libultraship
-	url = https://github.com/HarbourMasters/libultraship-switch
+	url = https://github.com/Dire-Tomatoes/libultraship-switch-9.0.0
 [submodule "ZAPDTR"]
 	path = ZAPDTR
 	url = https://github.com/harbourmasters/ZAPDTR
